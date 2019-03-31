@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1525001148 source:c:\users\hubohan\desktop\lab1_array_sz170110113\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+

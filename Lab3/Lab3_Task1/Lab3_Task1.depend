@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1526733827 source:c:\users\hubohan\desktop\lab3_task1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+
+1526746781 source:c:\users\hubohan\desktop\lab3_all\lab3_task1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+
+1526750830 source:c:\users\hubohan\desktop\sz170110113_ºú²©º­_ÊµÑéÈý\lab3_task1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<string.h>
+

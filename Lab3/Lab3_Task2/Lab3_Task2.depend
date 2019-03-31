@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1526651365 source:c:\users\hubohan\desktop\lab3_task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+
+1526748451 source:c:\users\hubohan\desktop\lab3_all\lab3_task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527956538 source:c:\users\hubohan\desktop\ds_lab4\lab4_t2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
